@@ -1,4 +1,4 @@
-![Photo of Kwame Porter Robinson with a blue wall behind him.](./images/mexico_city_blue.jpg) 
+<img src="./images/mexico_city_blue.jpg" height="200" alt="Photo of Kwame Porter Robinson with a blue wall behind him.">
 
 ## About
 
@@ -24,6 +24,6 @@ Prior to becoming a Ph.D. student at the University of Michigan, Kwame was lead 
 ## Academic Biography
 Kwame holds a master’s degree in Computer Science (University of Maryland, Baltimore County), with a thesis on [Slepian-Wolf](https://en.wikipedia.org/wiki/Slepian%E2%80%93Wolf_coding_) [probabilistic source code correlation](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNaGs/view), a Bachelor’s degree in Electrical Engineering (New Mexico State University), with a specialization in [control systems](https://en.wikipedia.org/wiki/Control_theory) and a Bachelor's of Fine Art (Boston University). Kwame is a Ph.D. student at the University of Michigan.
 
-## Contact
+## Contac
 
 Feel free to reach out to Kwame at [kwamepr@umich.edu](mailto:kwamepr@umich.edu) and he welcomes focused collaboration across a variety of disciplines.
