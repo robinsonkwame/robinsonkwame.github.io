@@ -1,5 +1,8 @@
 <img src="./images/mexico_city_blue.jpg" height="200" alt="Photo of Kwame Porter Robinson with a blue wall behind him.">
 
+[![Kwame's twitter][1.1]][1]
+[![Kwame's Github][6.1]][6]
+
 ## About
 
 Kwame Porter Robinson is a tireless, creative problem solver with a variety research interests, including [generative justice/economics](https://www.researchgate.net/publication/311811471_An_Introduction_to_Generative_Justice), [AI in Society](https://link.springer.com/journal/146), Human-AI teaming (e.g., [Hybrid Intelligence Systems](https://hyints.engin.umich.edu/)) and [natural language understanding](https://en.wikipedia.org/wiki/Natural-language_understanding) (NLU). As an applied computational social scientist his primary methods are experimental, quasi-experimental designs and scalable NLU and Human-AI system development for applied applications. Before academia he worked for 10 years in industry as CEO, researcher, data scientist and machine learning engineer for both government and private corporations. Kwame is a Ph.D. student at the University of Michigan in the School of Information. He is advised by [Dr. Robert](https://sites.google.com/a/umich.edu/lionelrobert/home) and [Dr. Eglash](https://generativejustice.org/).
@@ -27,3 +30,9 @@ Kwame holds a master’s degree in Computer Science (University of Maryland, Bal
 ## Contact
 
 Feel free to reach out to Kwame at [kwamepr@umich.edu](mailto:kwamepr@umich.edu) and he welcomes focused collaboration across a variety of disciplines.
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+[1]: http://www.twitter.com/kporterrobinson
+[6]: http://www.github.com/robinsonkwame
