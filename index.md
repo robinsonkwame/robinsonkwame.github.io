@@ -1,4 +1,4 @@
-[me]: https://github.com/robinsonkwame/robinsonkwame.github.io/blob/master/images/mexico_city_blue.jpg "Photo of Kwame Porter Robinson with a blue wall behind him."
+![Photo of Kwame Porter Robinson with a blue wall behind him.](https://github.com/robinsonkwame/robinsonkwame.github.io/blob/master/images/mexico_city_blue.jpg) 
 
 ## About
 
