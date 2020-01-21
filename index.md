@@ -22,7 +22,7 @@ Algorithm: RSWITCH".](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNa
 
 ## Funding
 
-* AWS Cloud Credits for Research, 2019
+* AWS Cloud Credits for Research, 2019 (~$1,000)
 
 ## Work Biography
 
