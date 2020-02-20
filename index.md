@@ -11,7 +11,7 @@ As an applied computational social scientist his primary methods are experimenta
 
 ## Publications
 
-Kwame is currently working under his advisers, [Dr. Robert](https://sites.google.com/a/umich.edu/lionelrobert/home) and [Dr. Eglash](https://generativejustice.org/). He is part of Dr. Robert's [Sharing Economy lab](https://beta.si.umich.edu/people/lionel-robert) and Dr. Eglash's [Culturally Situated Design Tools research lab](https://www.researchgate.net/lab/Ron-Eglashs-Culturally-Situated-Design-Tools-Research-Lab-Ron-Eglash).
+Kwame is currently working under his advisers, [Dr. Robert](https://sites.google.com/a/umich.edu/lionelrobert/home) and [Dr. Eglash](https://generativejustice.org/). He is part of Dr. Robert's [Autonomous Vehicles Group](https://sites.google.com/a/umich.edu/lionelrobert/curriculum-vitae/papers-1/autonomous-vehicles) and Dr. Eglash's [Culturally Situated Design Tools research lab](https://www.researchgate.net/lab/Ron-Eglashs-Culturally-Situated-Design-Tools-Research-Lab-Ron-Eglash).
 
 Ron Eglash, Lionel P. Robert, Audrey Bennett, **Kwame Porter Robinson**, Michael L Lachney, William Babbitt. ["Automation for the artisanal economy: enhancing the economic and environmental sustainability of crafting professions with human–machine collaboration"](https://www.researchgate.net/publication/336227027_Automation_for_the_artisanal_economy_enhancing_the_economic_and_environmental_sustainability_of_crafting_professions_with_human-machine_collaboration). September 2019. AI & Society. DOI: 10.1007/s00146-019-00915-w.
 
