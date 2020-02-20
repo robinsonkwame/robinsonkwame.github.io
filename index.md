@@ -5,7 +5,9 @@
 
 ## About
 
-Kwame Porter Robinson is a tireless, creative problem solver with a variety research interests, including [generative justice/economics](https://www.researchgate.net/publication/311811471_An_Introduction_to_Generative_Justice), [AI in Society](https://link.springer.com/journal/146), Human-AI teaming (e.g., [Hybrid Intelligence Systems](https://hyints.engin.umich.edu/)) and [natural language understanding](https://en.wikipedia.org/wiki/Natural-language_understanding) (NLU). As an applied computational social scientist his primary methods are experimental, quasi-experimental designs and scalable NLU and Human-AI system development for applied applications. Before academia he worked for 10 years in industry as CEO, researcher, data scientist and machine learning engineer for both government and private corporations. Kwame is a Ph.D. student at the University of Michigan in the School of Information. He is advised by [Dr. Robert](https://sites.google.com/a/umich.edu/lionelrobert/home) and [Dr. Eglash](https://generativejustice.org/).
+Kwame Porter Robinson is a tireless, creative problem solver with a variety research interests, including [human-robot/AI interaction](https://en.wikipedia.org/wiki/Human%E2%80%93robot_interaction), Human-AI teaming (e.g., [Hybrid Intelligence Systems](https://hyints.engin.umich.edu/)), [AI in Society](https://link.springer.com/journal/146), [generative justice/economics](https://www.researchgate.net/publication/311811471_An_Introduction_to_Generative_Justice) and [natural language understanding](https://en.wikipedia.org/wiki/Natural-language_understanding) (NLU).
+
+As an applied computational social scientist his primary methods are experimental, quasi-experimental empirical and mixed-methods designs along with Human-AI system development for applied applications. Before academia he worked for 10 years in industry as CEO, researcher, data scientist and machine learning engineer for both government and private corporations. Kwame is a Ph.D. student at the University of Michigan in the School of Information. He is advised by [Dr. Robert](https://sites.google.com/a/umich.edu/lionelrobert/home) and [Dr. Eglash](https://generativejustice.org/).
 
 ## Publications
 
@@ -33,6 +35,7 @@ Kwame holds a master’s degree in Computer Science (University of Maryland, Bal
 
 ## Ad-Hoc Review
 * CHI’20, April 25–30, 2020
+* New Media and Society Journal
 
 ## Contact
 
