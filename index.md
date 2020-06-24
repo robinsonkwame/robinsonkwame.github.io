@@ -27,7 +27,7 @@ Algorithm: RSWITCH".](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNa
 * Rackham Conference Travel Grant, 2019 ($800)
 * AWS Cloud Credits for Research, 2019 (~$1,000)
 
-## Work Biography
+## Industry Biography
 
 Prior to becoming a Ph.D. student at the University of Michigan, Kwame was lead data scientist at [BrightHive](https://www.brigthive.io) where he designed scalable natural language processing systems and algorithms for workforce artificial intelligence applications, including unstructured taxonomy matching and multi-level semantic similarity. In 2015 Kwame created and led a data science consultancy that served a variety of private and public organizations, including the WKKF Foundation and the World Bank.  Additionally, Kwame has worked on classified projects spanning data science, cyber security and telecommunications research for the Department of Defense. 
 
