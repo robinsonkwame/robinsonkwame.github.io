@@ -24,6 +24,7 @@ Algorithm: RSWITCH".](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNa
 
 ## Funding
 
+* Rackham Conference Travel Grant, 2019 ($800)
 * AWS Cloud Credits for Research, 2019 (~$1,000)
 
 ## Work Biography
@@ -39,7 +40,7 @@ Kwame holds a master’s degree in Computer Science (University of Maryland, Bal
 * [CHI’20, April 25–30, 2020](https://chi2020.acm.org/)
 
 ## Graduate Student Instructor Courses
-* [SI 721: Data Mining: Methods and Applications](https://www.si.umich.edu/programs/courses/721) - Automatic, robust, and intelligent data mining techniques have become essential tools to handle heterogeneous, noisy, nontraditional, and large-scale data sets. This is a doctoral seminar course of advanced topics in data mining. The course provides an overview of recent research topics in the field of data mining, the state-of-the-art methods to analyze different genres of information, and the applications to many real world problems. 
+* [SI 671/721: Data Mining: Methods and Applications](https://s3-us-west-1.amazonaws.com/umsi-class/671.pdf) - Automatic, robust, and intelligent data mining techniques have become essential tools to handle heterogeneous, noisy, nontraditional, and large-scale data sets. This is a doctoral seminar course of advanced topics in data mining. The course provides an overview of recent research topics in the field of data mining, the state-of-the-art methods to analyze different genres of information, and the applications to many real world problems. 
 
 ## Contact
 
