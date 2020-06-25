@@ -24,6 +24,7 @@ Algorithm: RSWITCH".](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNa
 
 ## Funding
 
+* Rackham Graduate Student Research Grant, 2020 ($925)
 * Rackham Conference Travel Grant, 2019 ($800)
 * AWS Cloud Credits for Research, 2019 (~$1,000)
 
