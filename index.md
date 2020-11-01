@@ -44,6 +44,8 @@ Kwame holds a master’s degree in Computer Science (University of Maryland, Bal
 
 ## Graduate Student Instructor Courses
 * [SI 671/721: Data Mining: Methods and Applications](https://s3-us-west-1.amazonaws.com/umsi-class/671.pdf) - Automatic, robust, and intelligent data mining techniques have become essential tools to handle heterogeneous, noisy, nontraditional, and large-scale data sets. This is a doctoral seminar course of advanced topics in data mining. The course provides an overview of recent research topics in the field of data mining, the state-of-the-art methods to analyze different genres of information, and the applications to many real world problems. 
+* [SI 699: Big Data Analytics](https://www.si.umich.edu/sites/default/files/si_699-007.pdf) - The big data analytics mastery course will require students to demonstrate mastery of data collection,processing, analysis, visualization, and prediction. To develop these skills students will work onsemester-long projects that deal with large or industry-scale data sets, and solve real-world problems.Aligned with best industry practices, students will be expected to work in a fast-paced, collaborativeenvironment, while demonstrating independence and leadership. Students must be able to create and usetools to handle very large transactional, text, network, behavioral, and/or multimedia data sets.
+
 
 ## Contact
 
