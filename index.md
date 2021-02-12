@@ -7,7 +7,7 @@
 
 Kwame Porter Robinson is a tireless, creative problem solver with a variety research interests, including [human interaction with artificial intelligence](https://www.researchgate.net/project/Human-Interaction-with-Artificial-Intelligence-HIAI) (HIAI), applied HIAI [generative economics](https://www.researchgate.net/publication/335391995_AI_for_a_Generative_Economy_The_Role_of_Intelligent_Systems_in_Sustaining_Unalienated_Labor_Environment_and_Society) and [natural language understanding](https://en.wikipedia.org/wiki/Natural-language_understanding) (NLU). He has a background in electrical engineering, control systems, machine learning and architecting computational systems. 
 
-As a HIAI [cognitive economist](https://www.inverse.com/article/13503-what-is-cognitive-economics-understanding-the-world-through-new-types-of-data), his primary investigative techniques are experimental, quasi-experimental and simulation based. He largely uses quantitative and mixed-methods designs along with novel system development. Before academia he worked for 10 years in industry as CEO, research engineer, data scientist and machine learning engineer for both government and private corporations. Kwame is a Ph.D. student at the University of Michigan in the School of Information. He is advised by [Dr. Robert](https://sites.google.com/a/umich.edu/lionelrobert/home) and [Dr. Eglash](https://generativejustice.org/).
+As a researcher of [value flows in HIAI](https://fastcapitalism.journal.library.uta.edu/index.php/fastcapitalism/article/view/108), his primary investigative techniques are experimental, quasi-experimental and simulation based. He largely uses quantitative and mixed-methods designs along with novel system development. Before academia he worked for 10 years in industry as CEO, research engineer, data scientist and machine learning engineer for both government and private corporations. Kwame is a Ph.D. student at the University of Michigan in the School of Information. He is advised by [Dr. Robert](https://sites.google.com/a/umich.edu/lionelrobert/home) and [Dr. Eglash](https://generativejustice.org/).
 
 ## Publications
 
@@ -26,6 +26,7 @@ Algorithm: RSWITCH".](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNa
 
 ## Funding
 
+* [Rackham Merit Fellowship](https://rackham.umich.edu/funding/funding-types/rackham-merit-fellowship-program/)
 * Rackham Graduate Student Research Grant, 2020 ($925)
 * Rackham Conference Travel Grant, 2019 ($800)
 * AWS Cloud Credits for Research, 2019 (~$1,000)
@@ -38,6 +39,7 @@ Prior to becoming a Ph.D. student at the University of Michigan, Kwame was lead 
 Kwame holds a master’s degree in Computer Science (University of Maryland, Baltimore County), with a thesis on [Slepian-Wolf](https://en.wikipedia.org/wiki/Slepian%E2%80%93Wolf_coding_) [probabilistic source code correlation](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNaGs/view), a Bachelor’s degree in Electrical Engineering (New Mexico State University), with a specialization in [control systems](https://en.wikipedia.org/wiki/Control_theory) and a Bachelor's of Fine Art (Boston University). Kwame is a Ph.D. student at the [University of Michigan](https://www.si.umich.edu/programs/phd-information/doctoral-student-research-and-scholarship).
 
 ## Ad-Hoc Review
+* [IEEE Transactions on Technology and Society](https://technologyandsociety.org/transactions/)
 * [AIS Transactions on Human-Computer Interaction](https://aisel.aisnet.org/thci/)
 * [New Media and Society Journal](https://en.wikipedia.org/wiki/New_Media_%26_Society)
 * [CHI’20, April 25–30, 2020](https://chi2020.acm.org/)
