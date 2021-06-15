@@ -19,8 +19,6 @@ Ron Eglash, Lionel P. Robert, Audrey Bennett, **Kwame Porter Robinson**, Michael
 
 Ron Eglash, Lionel P. Robert, Audrey Bennett, **Kwame Porter Robinson**, Michael L Lachney, William Babbitt. ["AI for a Generative Economy: The Role of Intelligent Systems in Sustaining Unalienated Labor, Environment, and Society".](https://www.researchgate.net/publication/335391995_AI_for_a_Generative_Economy_The_Role_of_Intelligent_Systems_in_Sustaining_Unalienated_Labor_Environment_and_Society) August 2019. Conference: AAAI Fall 2019 Symposium on AI and Work At: Arlington, Virginia USA
 
-Ron Eglash, Lionel P. Robert, Audrey Bennett, **Kwame Porter Robinson**, Michael L Lachney, William Babbitt. "Automation for the Artisanal Economy: Enhancing the Economic and Environmental Sustainability of Crafting Professions with Human-Machine Collaboration". December 2018. SSRN Electronic Journal. DOI: 10.2139/ssrn.3446265
-
 Kwame Tacumah Porter-Robinson (**Kwame Porter Robinson**). ["An Energy Efficient Rate Adaptive Distributed Source Coding
 Algorithm: RSWITCH".](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNaGs/view) December 2012. unpublished.
 
