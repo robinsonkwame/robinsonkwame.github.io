@@ -13,6 +13,8 @@ As a researcher, he studies social empowerment and disempowerment through HAII v
 
 Kwame is currently working under his advisers, [Dr. Robert](https://sites.google.com/a/umich.edu/lionelrobert/home) and [Dr. Eglash](https://generativejustice.org/). He is part of Dr. Robert's [Autonomous Vehicles Group](https://sites.google.com/a/umich.edu/lionelrobert/curriculum-vitae/papers-1/autonomous-vehicles) and Dr. Eglash's [Culturally Situated Design Tools research lab](https://www.researchgate.net/lab/Ron-Eglashs-Culturally-Situated-Design-Tools-Research-Lab-Ron-Eglash).
 
+**Robinson, K.P.**, Robert, L.P. Eglash, R. (2021). ["Extrapolating significance of text-based autonomous vehicle scenarios to multimedia scenarios and implications for user-centered design"](https://deepblue.lib.umich.edu/handle/2027.42/168412), RO-MAN 2021, 10.7302/1691
+
 **Robinson, K.P.**, Eglash, R., Bennett, A., Nandakumar, S. and Robert, L.P. (2020). ["Authente-Kente: Enabling Authentication for Artisanal Economies with Deep Learning"](https://deepblue.lib.umich.edu/handle/2027.42/156393), AI & Society, 10.13140/RG.2.2.27020.95362/2
 
 Ron Eglash, Lionel P. Robert, Audrey Bennett, **Kwame Porter Robinson**, Michael L Lachney, William Babbitt. ["Automation for the artisanal economy: enhancing the economic and environmental sustainability of crafting professions with human–machine collaboration"](https://www.researchgate.net/publication/336227027_Automation_for_the_artisanal_economy_enhancing_the_economic_and_environmental_sustainability_of_crafting_professions_with_human-machine_collaboration). September 2019. AI & Society. DOI: 10.1007/s00146-019-00915-w.
@@ -35,6 +37,9 @@ Prior to becoming a Ph.D. student at the University of Michigan, Kwame was lead 
 
 ## Academic Biography
 Kwame holds a master’s degree in Computer Science (University of Maryland, Baltimore County), with a thesis on [Slepian-Wolf](https://en.wikipedia.org/wiki/Slepian%E2%80%93Wolf_coding_) [probabilistic source code correlation](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNaGs/view), a Bachelor’s degree in Electrical Engineering (New Mexico State University), with a specialization in [control systems](https://en.wikipedia.org/wiki/Control_theory) and a Bachelor's of Fine Art (Boston University). Kwame is a Ph.D. student at the [University of Michigan](https://www.si.umich.edu/programs/phd-information/doctoral-student-research-and-scholarship).
+
+## Conference Presentations
+* [RO-MAN 2021](https://ro-man2021.org/)
 
 ## Ad-Hoc Review
 * [IEEE Transactions on Technology and Society](https://technologyandsociety.org/transactions/)
