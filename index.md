@@ -24,6 +24,9 @@ Ron Eglash, Lionel P. Robert, Audrey Bennett, **Kwame Porter Robinson**, Michael
 Kwame Tacumah Porter-Robinson (**Kwame Porter Robinson**). ["An Energy Efficient Rate Adaptive Distributed Source Coding
 Algorithm: RSWITCH".](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNaGs/view) December 2012. unpublished.
 
+## Conference Presentations
+* [RO-MAN 2021](https://ro-man2021.org/) - [`Extrapolating significance of text-based autonomous vehicle scenarios to multimedia scenarios and implications for user-centered design`](https://github.com/robinsonkwame/robinsonkwame.github.io/blob/master/conf/Robinson%20et%20al%20-%20Extrapolating%20significance%20of%20text-based%20autonomous%20vehicle%20scenarios%20to%20multimedia%20scenarios%20and%20implications%20for%20user-centered%20design%20-%20RO-MAN%202021%20Presentation.pdf) (8/10/2021)
+
 ## Funding
 
 * [Rackham Merit Fellowship](https://rackham.umich.edu/funding/funding-types/rackham-merit-fellowship-program/)
@@ -37,9 +40,6 @@ Prior to becoming a Ph.D. student at the University of Michigan, Kwame was lead 
 
 ## Academic Biography
 Kwame holds a master’s degree in Computer Science (University of Maryland, Baltimore County), with a thesis on [Slepian-Wolf](https://en.wikipedia.org/wiki/Slepian%E2%80%93Wolf_coding_) [probabilistic source code correlation](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNaGs/view), a Bachelor’s degree in Electrical Engineering (New Mexico State University), with a specialization in [control systems](https://en.wikipedia.org/wiki/Control_theory) and a Bachelor's of Fine Art (Boston University). Kwame is a Ph.D. student at the [University of Michigan](https://www.si.umich.edu/programs/phd-information/doctoral-student-research-and-scholarship).
-
-## Conference Presentations
-* [RO-MAN 2021](https://ro-man2021.org/)
 
 ## Ad-Hoc Review
 * [IEEE Transactions on Technology and Society](https://technologyandsociety.org/transactions/)
