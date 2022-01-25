@@ -4,9 +4,9 @@
 
 ## About
 
-As a tireless, creative researcher at the intersection of community, economies and empowerment, Kwame Porter Robinson studies the development of monetary and non-monetary human AI systems. This intersectional study is supported by a variety of research interests, including [machine learning](https://en.wikipedia.org/wiki/Machine_learning), [human computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction#Introduction), [natural language understanding](https://en.wikipedia.org/wiki/Natural-language_understanding), [alternative currencies](https://en.wikipedia.org/wiki/Local_currency), [generative economics](https://www.researchgate.net/publication/335391995_AI_for_a_Generative_Economy_The_Role_of_Intelligent_Systems_in_Sustaining_Unalienated_Labor_Environment_and_Society), and [blockchain](https://en.wikipedia.org/wiki/Blockchain).
+Kwame studies how people can flourish through community defined economic systems. These systems allow people to prioritize other types of value over money. Because artificial intelligence (AI) provides unprecedented value creation, he studies how new AI algorithms can help communities define and refine their own economic systems. This study is a combination of interdisciplinary fields, including [machine learning](https://en.wikipedia.org/wiki/Machine_learning), [generative economics](https://www.researchgate.net/publication/335391995_AI_for_a_Generative_Economy_The_Role_of_Intelligent_Systems_in_Sustaining_Unalienated_Labor_Environment_and_Society), and [AI ethics](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence). Theoretical methods from [natural language understanding](https://en.wikipedia.org/wiki/Natural-language_understanding) and [blockchain](https://en.wikipedia.org/wiki/Blockchain) also support this study.
 
-His primary investigative techniques are systems building, empirical study, experimental designs and simulations. For evaluation he largely uses quantitative and mixed-methods methods. Prior to academia he worked for several years in industry as CEO, research engineer, data scientist and machine learning engineer for both government and private corporations. Kwame is a Ph.D. student at the University of Michigan in the School of Information. He is advised by [Dr. Robert](https://sites.google.com/a/umich.edu/lionelrobert/home) and [Dr. Eglash](https://generativejustice.org/).
+In his research, he develops interdisciplinary theory within case-based work across various problem domains. His primary investigative techniques are systems building, empirical study, and experimental designs. For evaluation he largely uses quantitative and mixed-methods methods. Prior to academia he worked for several years in industry as CEO, research engineer, data scientist and machine learning engineer for both government and private corporations. Kwame is a Ph.D. student at the University of Michigan in the School of Information. He is advised by [Dr. Robert](https://sites.google.com/a/umich.edu/lionelrobert/home) and [Dr. Eglash](https://generativejustice.org/).
 
 ## Publications
 
@@ -45,6 +45,7 @@ Kwame holds a master’s degree in Computer Science (University of Maryland, Bal
 * [AIS Transactions on Human-Computer Interaction](https://aisel.aisnet.org/thci/)
 * [New Media and Society Journal](https://en.wikipedia.org/wiki/New_Media_%26_Society)
 * [CHI’20, April 25–30, 2020](https://chi2020.acm.org/)
+* [CHI’22, April 30 - May 6, 2022](https://chi2022.acm.org/)
 
 ## Graduate Student Instructor Courses
 * [SI 671/721: Data Mining: Methods and Applications](https://s3-us-west-1.amazonaws.com/umsi-class/671.pdf) - (98 students) Automatic, robust, and intelligent data mining techniques have become essential tools to handle heterogeneous, noisy, nontraditional, and large-scale data sets. This is a doctoral seminar course of advanced topics in data mining. The course provides an overview of recent research topics in the field of data mining, the state-of-the-art methods to analyze different genres of information, and the applications to many real world problems. 
@@ -52,6 +53,7 @@ Kwame holds a master’s degree in Computer Science (University of Maryland, Bal
 
 ## Service
 * [Kalamazoo Area Mathematics and Science Center (KAMSC)](https://kamsc.org/) - Keynote for Big Data Day; Presented principles and questions for effective analysis of big data to Kalamazoo High School students. Introduced Information as a discipline, the importance of theory, and contextualized learnings with a brief introduction of Authene-Kente (Robinson et al 2021). Slides [available here](https://github.com/robinsonkwame/robinsonkwame.github.io/blob/master/conf/KAMSC%20Big%20Data%20Day%20-%20Robinson%20-%201-13-2021.pdf).
+* [Black at SI (B@SI)](https://maizepages.umich.edu/organization/blackatsi) - One of several founding executive memebers. The Black@SI is an academic and social support network that serves Black students, alumni, and accomplices of the University of Michigan School of Information (UMSI). Through our programming, we help ensure that underrepresented students can successfully contribute to both scientific research and the college’s learning environment, and positively impact our communities.
 
 ## Contact
 
