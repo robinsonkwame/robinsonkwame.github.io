@@ -28,7 +28,8 @@ Algorithm: RSWITCH".](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNa
 
 ## Funding
 
-* [Rackham Merit Fellowship](https://rackham.umich.edu/funding/funding-types/rackham-merit-fellowship-program/)
+* [Rackham Merit Fellowship](https://rackham.umich.edu/funding/funding-types/rackham-merit-fellowship-program/), stipend with full tuition
+* Rackham Professional Development Grant, 2022 ($400)
 * Rackham Graduate Student Research Grant, 2020 ($925)
 * Rackham Conference Travel Grant, 2019 ($800)
 * AWS Cloud Credits for Research, 2019 (~$1,000)
@@ -45,7 +46,6 @@ Kwame holds a master’s degree in Computer Science (University of Maryland, Bal
 * [AIS Transactions on Human-Computer Interaction](https://aisel.aisnet.org/thci/)
 * [New Media and Society Journal](https://en.wikipedia.org/wiki/New_Media_%26_Society)
 * [CHI’20, April 25–30, 2020](https://chi2020.acm.org/)
-* [CHI’22, April 30 - May 6, 2022](https://chi2022.acm.org/)
 
 ## Graduate Student Instructor Courses
 * [SI 671/721: Data Mining: Methods and Applications](https://s3-us-west-1.amazonaws.com/umsi-class/671.pdf) - (98 students) Automatic, robust, and intelligent data mining techniques have become essential tools to handle heterogeneous, noisy, nontraditional, and large-scale data sets. This is a doctoral seminar course of advanced topics in data mining. The course provides an overview of recent research topics in the field of data mining, the state-of-the-art methods to analyze different genres of information, and the applications to many real world problems. 
