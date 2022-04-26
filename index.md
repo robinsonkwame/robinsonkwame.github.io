@@ -46,6 +46,7 @@ Kwame holds a master’s degree in Computer Science (University of Maryland, Bal
 * [AIS Transactions on Human-Computer Interaction](https://aisel.aisnet.org/thci/)
 * [New Media and Society Journal](https://en.wikipedia.org/wiki/New_Media_%26_Society)
 * [CHI’20, April 25–30, 2020](https://chi2020.acm.org/)
+* [ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'22)](https://eaamo.org/)
 
 ## Graduate Student Instructor Courses
 * [SI 671/721: Data Mining: Methods and Applications](https://s3-us-west-1.amazonaws.com/umsi-class/671.pdf) - (98 students) Automatic, robust, and intelligent data mining techniques have become essential tools to handle heterogeneous, noisy, nontraditional, and large-scale data sets. This is a doctoral seminar course of advanced topics in data mining. The course provides an overview of recent research topics in the field of data mining, the state-of-the-art methods to analyze different genres of information, and the applications to many real world problems. 
