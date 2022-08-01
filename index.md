@@ -12,6 +12,8 @@ In his research, he develops interdisciplinary theory within case-based work acr
 
 Kwame is currently working under his advisers, [Dr. Robert](https://sites.google.com/a/umich.edu/lionelrobert/home) and [Dr. Eglash](https://generativejustice.org/). He is part of Dr. Robert's [Autonomous Vehicles Group](https://sites.google.com/a/umich.edu/lionelrobert/curriculum-vitae/papers-1/autonomous-vehicles) and Dr. Eglash's [Culturally Situated Design Tools research lab](https://www.researchgate.net/lab/Ron-Eglashs-Culturally-Situated-Design-Tools-Research-Lab-Ron-Eglash).
 
+Ron Eglash, Audrey Bennett, **Kwame Porter Robinson**, Matthew Garvin, Lionel P. Robert, Mark Guzdial (2022). "Decolonization, Computation, Propagation: Phyto-human alliances in the pathways towards generative justice". In _Plants by Numbers_, Bloomsbury Visual Arts (forthcoming).
+
 **Robinson, K.P.**, Robert, L.P. Eglash, R. (2021). ["Extrapolating significance of text-based autonomous vehicle scenarios to multimedia scenarios and implications for user-centered design"](https://deepblue.lib.umich.edu/handle/2027.42/168412), RO-MAN 2021, 10.7302/1691
 
 **Robinson, K.P.**, Eglash, R., Bennett, A., Nandakumar, S. and Robert, L.P. (2020). ["Authente-Kente: Enabling Authentication for Artisanal Economies with Deep Learning"](https://deepblue.lib.umich.edu/handle/2027.42/156393), AI & Society, 10.13140/RG.2.2.27020.95362/2
