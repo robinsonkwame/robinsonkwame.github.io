@@ -10,7 +10,9 @@ In his research, he develops interdisciplinary theory within case-based work acr
 
 ## Publications
 
-Kwame is currently working under his advisers, [Dr. Robert](https://sites.google.com/a/umich.edu/lionelrobert/home) and [Dr. Eglash](https://generativejustice.org/). He is part of Dr. Robert's [Autonomous Vehicles Group](https://sites.google.com/a/umich.edu/lionelrobert/curriculum-vitae/papers-1/autonomous-vehicles) and Dr. Eglash's [Culturally Situated Design Tools research lab](https://www.researchgate.net/lab/Ron-Eglashs-Culturally-Situated-Design-Tools-Research-Lab-Ron-Eglash).
+Kwame is currently working under his advisers, [Dr. Robert](https://sites.google.com/a/umich.edu/lionelrobert/home) and [Dr. Eglash](https://generativejustice.org/). He is part of Dr. Robert's [research group](https://www.researchgate.net/profile/Lionel-Robert/) and Dr. Eglash's [Culturally Situated Design Tools research lab](https://www.researchgate.net/lab/Ron-Eglashs-Culturally-Situated-Design-Tools-Research-Lab-Ron-Eglash).
+
+Ron Eglash, Lionel Robert, Audrey Bennett, Kwame Robinson, Matthew Garvin, Deborah Hammond-Sowah (2022) ["Navigating the open/closed spectrum: the need for layered access in platforms forgenerative justice"](https://www.researchgate.net/publication/361180788_Navigating_the_openclosed_spectrum_the_need_for_layered_access_in_platforms_for_generative_justice), [ICA72](https://www.icahdq.org/page/ICA2022)
 
 Ron Eglash, Audrey Bennett, **Kwame Porter Robinson**, Matthew Garvin, Lionel P. Robert, Mark Guzdial (2022). "Decolonization, Computation, Propagation: Phyto-human alliances in the pathways towards generative justice". In _Plants by Numbers_, Bloomsbury Visual Arts (forthcoming).
 
