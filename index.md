@@ -10,9 +10,9 @@ In his research, he develops interdisciplinary theory within case-based work acr
 
 ## Publications
 
-C.5 Ron Eglash, Lionel Robert, Audrey Bennett, Kwame Robinson, Matthew Garvin, Deborah Hammond-Sowah (2022) ["Navigating the open/closed spectrum: the need for layered access in platforms forgenerative justice"](https://www.researchgate.net/publication/361180788_Navigating_the_openclosed_spectrum_the_need_for_layered_access_in_platforms_for_generative_justice), [ICA72](https://www.icahdq.org/page/ICA2022)
+[C]onference; [B]ook Chapter; [UNP]ublished
 
-B.1 Ron Eglash, Audrey Bennett, **Kwame Porter Robinson**, Matthew Garvin, Lionel P. Robert, Mark Guzdial (2022). "Decolonization, Computation, Propagation: Phyto-human alliances in the pathways towards generative justice". In _Plants by Numbers_, Bloomsbury Visual Arts (forthcoming).
+C.5 Ron Eglash, Lionel Robert, Audrey Bennett, **Kwame Robinson**, Matthew Garvin, Deborah Hammond-Sowah (2022) ["Navigating the open/closed spectrum: the need for layered access in platforms forgenerative justice"](https://www.researchgate.net/publication/361180788_Navigating_the_openclosed_spectrum_the_need_for_layered_access_in_platforms_for_generative_justice), [ICA72](https://www.icahdq.org/page/ICA2022)
 
 C.4 **Robinson, K.P.**, Robert, L.P. Eglash, R. (2021). ["Extrapolating significance of text-based autonomous vehicle scenarios to multimedia scenarios and implications for user-centered design"](https://deepblue.lib.umich.edu/handle/2027.42/168412), RO-MAN 2021, 10.7302/1691
 
@@ -21,6 +21,8 @@ C.3 **Robinson, K.P.**, Eglash, R., Bennett, A., Nandakumar, S. and Robert, L.P.
 C.2 Ron Eglash, Lionel P. Robert, Audrey Bennett, **Kwame Porter Robinson**, Michael L Lachney, William Babbitt. ["Automation for the artisanal economy: enhancing the economic and environmental sustainability of crafting professions with human–machine collaboration"](https://www.researchgate.net/publication/336227027_Automation_for_the_artisanal_economy_enhancing_the_economic_and_environmental_sustainability_of_crafting_professions_with_human-machine_collaboration). September 2019. AI & Society. DOI: 10.1007/s00146-019-00915-w.
 
 C.1 Ron Eglash, Lionel P. Robert, Audrey Bennett, **Kwame Porter Robinson**, Michael L Lachney, William Babbitt. ["AI for a Generative Economy: The Role of Intelligent Systems in Sustaining Unalienated Labor, Environment, and Society".](https://www.researchgate.net/publication/335391995_AI_for_a_Generative_Economy_The_Role_of_Intelligent_Systems_in_Sustaining_Unalienated_Labor_Environment_and_Society) August 2019. Conference: AAAI Fall 2019 Symposium on AI and Work At: Arlington, Virginia USA
+
+B.1 Ron Eglash, Audrey Bennett, **Kwame Porter Robinson**, Matthew Garvin, Lionel P. Robert, Mark Guzdial (2022). "Decolonization, Computation, Propagation: Phyto-human alliances in the pathways towards generative justice". In _Plants by Numbers_, Bloomsbury Visual Arts (forthcoming).
 
 UNP. Kwame Tacumah Porter-Robinson (**Kwame Porter Robinson**). ["An Energy Efficient Rate Adaptive Distributed Source Coding
 Algorithm: RSWITCH".](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNaGs/view) December 2012. unpublished.
@@ -38,7 +40,7 @@ Algorithm: RSWITCH".](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNa
 
 ## Industry Biography
 
-Prior to becoming a Ph.D. student at the University of Michigan, Kwame was lead data scientist at [BrightHive](https://www.brigthive.io) where he designed scalable natural language processing systems and algorithms for workforce artificial intelligence applications, including unstructured taxonomy matching and multi-level semantic similarity. In 2015 Kwame created and led a data science consultancy that served a variety of private and public organizations, including the WKKF Foundation and the World Bank.  Additionally, Kwame has worked on classified projects spanning data science, cyber security and telecommunications research for the Department of Defense. 
+Prior to becoming a Ph.D. candidate at the University of Michigan, Kwame was lead data scientist at [BrightHive](https://www.brigthive.io) where he designed scalable natural language processing systems and algorithms for workforce artificial intelligence applications, including unstructured taxonomy matching and multi-level semantic similarity. In 2015 Kwame created and led a data science consultancy that served a variety of private and public organizations, including the WKKF Foundation and the World Bank.  Additionally, Kwame has worked on classified projects spanning data science, blockchain, cyber security and telecommunications research for the Department of Defense.
 
 ## Academic Biography
 Kwame holds a master’s degree in Computer Science (University of Maryland, Baltimore County), with a thesis on [Slepian-Wolf](https://en.wikipedia.org/wiki/Slepian%E2%80%93Wolf_coding_) [probabilistic source code correlation](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNaGs/view), a Bachelor’s degree in Electrical Engineering (New Mexico State University), with a specialization in [control systems](https://en.wikipedia.org/wiki/Control_theory) and a Bachelor's of Fine Art (Boston University). Kwame is a Ph.D. student at the [University of Michigan](https://www.si.umich.edu/programs/phd-information/doctoral-student-research-and-scholarship).
