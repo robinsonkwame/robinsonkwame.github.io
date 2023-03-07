@@ -16,7 +16,12 @@ In his research, he develops interdisciplinary theory within case-based work acr
 
 ## Publications
 
-[C]onference; [B]ook Chapter; [UNP]ublished
+[J]ournal; [C]onference; [B]ook Chapter; [UNP]ublished
+
+J.1 Ron Eglash, **Kwame Porter Robinson**, Audrey Bennett, Lionel Robert, Matthew Garvin
+(2023; Under Review) "Computational Reparations as Generative Justice: Decolonial
+Transitions to Unalienated Circular Value Flow" [Big Data & Society](https://journals-sagepub-com.proxy.lib.umich.edu/home/bds)
+
 
 C.5 Ron Eglash, Lionel Robert, Audrey Bennett, **Kwame Robinson**, Matthew Garvin, Deborah Hammond-Sowah (2022) ["Navigating the open/closed spectrum: the need for layered access in platforms forgenerative justice"](https://www.researchgate.net/publication/361180788_Navigating_the_openclosed_spectrum_the_need_for_layered_access_in_platforms_for_generative_justice), [ICA72](https://www.icahdq.org/page/ICA2022)
 
