@@ -20,8 +20,7 @@ In his research, he develops interdisciplinary theory within case-based work acr
 
 J.1 Ron Eglash, **Kwame Porter Robinson**, Audrey Bennett, Lionel Robert, Matthew Garvin
 (2023; Under Review) "Computational Reparations as Generative Justice: Decolonial
-Transitions to Unalienated Circular Value Flow" [Big Data & Society](https://journals-sagepub-com.proxy.lib.umich.edu/home/bds)
-
+Transitions to Unalienated Circular Value Flow". [Big Data & Society](https://journals-sagepub-com.proxy.lib.umich.edu/home/bds)
 
 C.5 Ron Eglash, Lionel Robert, Audrey Bennett, **Kwame Robinson**, Matthew Garvin, Deborah Hammond-Sowah (2022) ["Navigating the open/closed spectrum: the need for layered access in platforms forgenerative justice"](https://www.researchgate.net/publication/361180788_Navigating_the_openclosed_spectrum_the_need_for_layered_access_in_platforms_for_generative_justice), [ICA72](https://www.icahdq.org/page/ICA2022)
 
@@ -33,7 +32,7 @@ C.2 Ron Eglash, Lionel P. Robert, Audrey Bennett, **Kwame Porter Robinson**, Mic
 
 C.1 Ron Eglash, Lionel P. Robert, Audrey Bennett, **Kwame Porter Robinson**, Michael L Lachney, William Babbitt. ["AI for a Generative Economy: The Role of Intelligent Systems in Sustaining Unalienated Labor, Environment, and Society".](https://www.researchgate.net/publication/335391995_AI_for_a_Generative_Economy_The_Role_of_Intelligent_Systems_in_Sustaining_Unalienated_Labor_Environment_and_Society) August 2019. Conference: AAAI Fall 2019 Symposium on AI and Work At: Arlington, Virginia USA
 
-B.1 Ron Eglash, Audrey Bennett, **Kwame Porter Robinson**, Matthew Garvin, Lionel P. Robert, Mark Guzdial (2022). "Decolonization, Computation, Propagation: Phyto-human alliances in the pathways towards generative justice". In _Plants by Numbers_, Bloomsbury Visual Arts (forthcoming).
+B.1 Ron Eglash, Audrey Bennett, **Kwame Porter Robinson**, Matthew Garvin, Lionel P. Robert, Mark Guzdial (2022). ["Decolonization, Computation, Propagation: Phyto-human alliances in the pathways towards generative justice"](https://www.bloomsbury.com/uk/plants-by-numbers-9781350343252/). In _Plants by Numbers_, Bloomsbury Visual Arts (forthcoming).
 
 UNP. Kwame Tacumah Porter-Robinson (**Kwame Porter Robinson**). ["An Energy Efficient Rate Adaptive Distributed Source Coding
 Algorithm: RSWITCH".](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNaGs/view) December 2012. unpublished.
@@ -68,7 +67,7 @@ Kwame holds a master’s degree in Computer Science (University of Maryland, Bal
 * [SI 699: Big Data Analytics](https://www.si.umich.edu/sites/default/files/si_699-007.pdf) - (34 students) The big data analytics mastery course will require students to demonstrate mastery of data collection,processing, analysis, visualization, and prediction. To develop these skills students will work onsemester-long projects that deal with large or industry-scale data sets, and solve real-world problems.Aligned with best industry practices, students will be expected to work in a fast-paced, collaborativeenvironment, while demonstrating independence and leadership. Students must be able to create and usetools to handle very large transactional, text, network, behavioral, and/or multimedia data sets.
 
 ## Service
-* Advisory Search Committee, School of Information, Member - Appointed to the advisory search committee to support school search for next dean. Collaborated over multiple months, with search firm Heidrick & Struggles, School of Information faculty and staff, and contributed to committee recommendation to University Michigan Office of the Provost.
+* [Advisory Search Committee, School of Information University of Michigan, Member](https://record.umich.edu/articles/advisory-committee-named-for-school-of-information-dean-search/) - Appointed to the advisory search committee to support school search for next dean. Collaborated over multiple months, with search firm Heidrick & Struggles, School of Information faculty and staff, and contributed to committee recommendation to University Michigan Office of the Provost.
 * [Kalamazoo Area Mathematics and Science Center (KAMSC)](https://kamsc.org/) - Keynote for Big Data Day; Presented principles and questions for effective analysis of big data to Kalamazoo High School students. Introduced Information as a discipline, the importance of theory, and contextualized learnings with a brief introduction of Authene-Kente (Robinson et al 2021). Slides [available here](https://github.com/robinsonkwame/robinsonkwame.github.io/blob/master/conf/KAMSC%20Big%20Data%20Day%20-%20Robinson%20-%201-13-2021.pdf).
 * [Black at SI (B@SI)](https://maizepages.umich.edu/organization/blackatsi) - One of several founding executive memebers. The Black@SI is an academic and social support network that serves Black students, alumni, and accomplices of the University of Michigan School of Information (UMSI). Through our programming, we help ensure that underrepresented students can successfully contribute to both scientific research and the college’s learning environment, and positively impact our communities.
 
