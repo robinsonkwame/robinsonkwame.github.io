@@ -1,6 +1,6 @@
 <img src="./images/mexico_city_blue.jpg" height="200" alt="Photo of Kwame Porter Robinson with a blue wall behind him.">
 
-[![Kwame's Github][6.1]][6]
+github: [Github](https://github.com/robinsonkwame) | email: [kwamepr@umich.edu](mailto:kwamepr@umich.edu) | linked in: [kporterrobinson](https://www.linkedin.com/in/kporterrobinson) | twitter: [@kporterrobinson](https://twitter.com/kporterrobinson)
 
 ## About
 
