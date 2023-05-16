@@ -42,7 +42,7 @@ UNP. Kwame Tacumah Porter-Robinson (**Kwame Porter Robinson**). ["An Energy Effi
 Algorithm: RSWITCH".](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNaGs/view) December 2012. unpublished.
 
 ## Conference Presentations
-* [2023 Ethical AI Forum University of Michigan](https://midas.umich.edu/building-ethical-ai/) - [`From Extraction to Empowerment: Recent developments in Community-Based Computing`]() (5/16/2023)
+* [2023 Ethical AI Forum University of Michigan](https://midas.umich.edu/building-ethical-ai/) - [`From Extraction to Empowerment: Recent developments in Community-Based Computing`](https://github.com/robinsonkwame/robinsonkwame.github.io/blob/master/conf/Robinson%20et%20al%20-%20From%20Extraction%20to%20Empowerment.pptx.pdf) (5/16/2023)
 
 * [RO-MAN 2021](https://ro-man2021.org/) - [`Extrapolating significance of text-based autonomous vehicle scenarios to multimedia scenarios and implications for user-centered design`](https://github.com/robinsonkwame/robinsonkwame.github.io/blob/master/conf/Robinson%20et%20al%20-%20Extrapolating%20significance%20of%20text-based%20autonomous%20vehicle%20scenarios%20to%20multimedia%20scenarios%20and%20implications%20for%20user-centered%20design%20-%20RO-MAN%202021%20Presentation.pdf) (8/10/2021)
 
