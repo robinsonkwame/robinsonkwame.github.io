@@ -22,8 +22,6 @@ In his research, he develops interdisciplinary theory within case-based work acr
 
 Conference
 
-C.6 Kwame Porter Robinson, Matthew Garvin, Ron Eglash, Lionel Robert, Mark Guzdial, Audrey Bennett (2023; Under Review) “Making Exploratory Search Engines using Qualitative Case Studies: a content-aware mixed- methods implementation using interviews with Detroit Artisans”, Conference on [Computer-Supported Cooperative Work and Social Computing Computer (CSCW24)](https://cscw.acm.org/2024)
-
 C.5 Ron Eglash, Lionel Robert, Audrey Bennett, **Kwame Robinson**, Matthew Garvin, Deborah Hammond-Sowah (2022) ["Navigating the open/closed spectrum: the need for layered access in platforms forgenerative justice"](https://www.researchgate.net/publication/361180788_Navigating_the_openclosed_spectrum_the_need_for_layered_access_in_platforms_for_generative_justice), [ICA72](https://www.icahdq.org/page/ICA2022)
 
 C.4 **Robinson, K.P.**, Robert, L.P. Eglash, R. (2021). ["Extrapolating significance of text-based autonomous vehicle scenarios to multimedia scenarios and implications for user-centered design"](https://deepblue.lib.umich.edu/handle/2027.42/168412), RO-MAN 2021, 10.7302/1691
@@ -35,6 +33,8 @@ C.2 Ron Eglash, Lionel P. Robert, Audrey Bennett, **Kwame Porter Robinson**, Mic
 C.1 Ron Eglash, Lionel P. Robert, Audrey Bennett, **Kwame Porter Robinson**, Michael L Lachney, William Babbitt. ["AI for a Generative Economy: The Role of Intelligent Systems in Sustaining Unalienated Labor, Environment, and Society".](https://www.researchgate.net/publication/335391995_AI_for_a_Generative_Economy_The_Role_of_Intelligent_Systems_in_Sustaining_Unalienated_Labor_Environment_and_Society) August 2019. Conference: AAAI Fall 2019 Symposium on AI and Work At: Arlington, Virginia USA
 
 Journal
+
+J.2 Kwame Porter Robinson, Matthew Garvin, Ron Eglash, Lionel Robert, Mark Guzdial, Audrey Bennett (2023; Under Review) “Making Exploratory Search Engines using Qualitative Case Studies: a content-aware mixed- methods implementation using interviews with Detroit Artisans”, [Proceedings of the ACM: Human-Computer Interaction (PACM HCI) journal](https://dl.acm.org/journal/pacmhci)
 
 J.1 Ron Eglash, **Kwame Porter Robinson**, Audrey Bennett, Lionel Robert, Matthew Garvin
 (2023; Under Review) "Computational Reparations as Generative Justice: Decolonial
