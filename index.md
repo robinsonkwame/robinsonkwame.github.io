@@ -34,11 +34,13 @@ C.1 Ron Eglash, Lionel P. Robert, Audrey Bennett, **Kwame Porter Robinson**, Mic
 
 Journal
 
-J.2 **Kwame Porter Robinson**, Matthew Garvin, Ron Eglash, Lionel Robert, Mark Guzdial, Audrey Bennett (2023; Under Review) “Making Exploratory Search Engines using Qualitative Case Studies: a content-aware mixed- methods implementation using interviews with Detroit Artisans”, [Proceedings of the ACM: Human-Computer Interaction (PACM HCI) journal](https://dl.acm.org/journal/pacmhci)
-
 J.1 Ron Eglash, **Kwame Porter Robinson**, Audrey Bennett, Lionel Robert, Matthew Garvin
 (2023; Under Review) "Computational Reparations as Generative Justice: Decolonial
 Transitions to Unalienated Circular Value Flow". [Big Data & Society](https://journals-sagepub-com.proxy.lib.umich.edu/home/bds)
+
+J.2 **Kwame Porter Robinson**, Matthew Garvin, Ron Eglash, Lionel Robert, Mark Guzdial, Audrey Bennett (2023; Under Review) “Making Exploratory Search Engines using Qualitative Case Studies: a content-aware mixed- methods implementation using interviews with Detroit Artisans”, [Proceedings of the ACM: Human-Computer Interaction (PACM HCI) journal](https://dl.acm.org/journal/pacmhci)
+
+J.3 **Kwame Porter Robinson**, Ron Eglash, Lionel P. Robert, Audrey Bennett, Mark Guzdial (2023; Under Review) "Computing for Community-Based Economies: A Sociotechnical Ecosystem for Democratic, Egalitarian and Sustainable Futures", [The Information Society](https://www.tandfonline.com/journals/utis20) 
 
 Book Chapter 
 
