@@ -42,8 +42,9 @@ Transitions to Unalienated Circular Value Flow". [Big Data & Society](https://jo
 
 Book Chapter 
 
-B.1 Ron Eglash, Audrey Bennett, **Kwame Porter Robinson**, Matthew Garvin, Lionel P. Robert, Mark Guzdial (2022). ["Decolonization, Computation, Propagation: Phyto-human alliances in the pathways towards generative justice"](https://www.bloomsbury.com/uk/plants-by-numbers-9781350343252/). In _Plants by Numbers_, Bloomsbury Visual Arts (forthcoming).
+B.1 Ron Eglash, Audrey Bennett, **Kwame Porter Robinson**, Matthew Garvin, Lionel P. Robert, Mark Guzdial (2022). ["Decolonization, Computation, Propagation: Phyto-human alliances in the pathways towards generative justice"](https://www.bloomsbury.com/uk/plants-by-numbers-9781350343252/). In [_Plants by Numbers_](https://www.bloomsbury.com/us/plants-by-numbers-9781350343252/), Bloomsbury Visual Arts.
 
+B.2 Matthew Garvin, Ron Eglash, **Kwame Porter Robinson**, Lionel P. Robert, Audrey Bennett (2023). ["Counter-hegemonic AI: The Role of Artisanal Identity in the Design of Automation for a Liberated Economy"](https://www.researchgate.net/publication/369906702_Counter-hegemonic_AI_The_Role_of_Artisanal_Identity_in_the_Design_of_Automation_for_a_Liberated_Economy). In [Algorithms and Society](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003299875-5/counter-hegemonic-ai-matthew-garvin-ron-eglash-kwame-porter-robinson-lionel-robert-mark-guzdial-audrey-bennett), Taylor & Francis.
 
 Unpublished
 
