@@ -38,9 +38,7 @@ J.1 Ron Eglash, **Kwame Porter Robinson**, Audrey Bennett, Lionel Robert, Matthe
 (2023; Under Review) "Computational Reparations as Generative Justice: Decolonial
 Transitions to Unalienated Circular Value Flow". [Big Data & Society](https://journals-sagepub-com.proxy.lib.umich.edu/home/bds)
 
-J.2 **Kwame Porter Robinson**, Matthew Garvin, Ron Eglash, Lionel Robert, Mark Guzdial, Audrey Bennett (2023; Under Review) “Making Exploratory Search Engines using Qualitative Case Studies: a content-aware mixed- methods implementation using interviews with Detroit Artisans”, [Proceedings of the ACM: Human-Computer Interaction (PACM HCI) journal](https://dl.acm.org/journal/pacmhci)
-
-J.3 **Kwame Porter Robinson**, Ron Eglash, Lionel P. Robert, Audrey Bennett, Mark Guzdial (2023; Under Review) "Computing for Community-Based Economies: A Sociotechnical Ecosystem for Democratic, Egalitarian and Sustainable Futures", [The Information Society](https://www.tandfonline.com/journals/utis20) 
+J.2 **Kwame Porter Robinson**, Ron Eglash, Lionel P. Robert, Audrey Bennett, Mark Guzdial (2023; Under Review) "Computing for Community-Based Economies: A Sociotechnical Ecosystem for Democratic, Egalitarian and Sustainable Futures", [The Information Society](https://www.tandfonline.com/journals/utis20) 
 
 Book Chapter 
 
@@ -48,7 +46,9 @@ B.1 Ron Eglash, Audrey Bennett, **Kwame Porter Robinson**, Matthew Garvin, Lione
 
 B.2 Matthew Garvin, Ron Eglash, **Kwame Porter Robinson**, Lionel P. Robert, Audrey Bennett (2023). ["Counter-hegemonic AI: The Role of Artisanal Identity in the Design of Automation for a Liberated Economy"](https://www.researchgate.net/publication/369906702_Counter-hegemonic_AI_The_Role_of_Artisanal_Identity_in_the_Design_of_Automation_for_a_Liberated_Economy). In [Algorithms and Society](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003299875-5/counter-hegemonic-ai-matthew-garvin-ron-eglash-kwame-porter-robinson-lionel-robert-mark-guzdial-audrey-bennett), Taylor & Francis.
 
-Unpublished
+Unpublished and In-progress
+
+**Kwame Porter Robinson**, Matthew Garvin, Ron Eglash, Lionel Robert, Mark Guzdial, Audrey Bennett “Making Exploratory Search Engines using Qualitative Case Studies: a content-aware mixed- methods implementation using interviews with Detroit Artisans” (In Progress)
 
 UNP. Kwame Tacumah Porter-Robinson (**Kwame Porter Robinson**). ["An Energy Efficient Rate Adaptive Distributed Source Coding
 Algorithm: RSWITCH".](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNaGs/view) December 2012. unpublished.
