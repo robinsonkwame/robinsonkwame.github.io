@@ -76,11 +76,13 @@ Prior to becoming a Ph.D. candidate at the University of Michigan, Kwame was lea
 Kwame holds a master’s degree in Computer Science (University of Maryland, Baltimore County), with a thesis on [Slepian-Wolf](https://en.wikipedia.org/wiki/Slepian%E2%80%93Wolf_coding_) [probabilistic source code correlation](https://drive.google.com/file/d/0B0z76rIRuw_mLTlpeWZiV2tNaGs/view), a Bachelor’s degree in Electrical Engineering (New Mexico State University), with a specialization in [control systems](https://en.wikipedia.org/wiki/Control_theory) and a Bachelor's of Fine Art (Boston University). Kwame is a Ph.D. candidate at the [University of Michigan](https://www.si.umich.edu/programs/phd-information/doctoral-student-research-and-scholarship).
 
 ## Ad-Hoc Review
+* [ACM/IEEE International Conference on Human-Robot Interaction 2024](https://humanrobotinteraction.org/)
 * [IEEE Transactions on Technology and Society](https://technologyandsociety.org/transactions/)
 * [AIS Transactions on Human-Computer Interaction](https://aisel.aisnet.org/thci/)
 * [New Media and Society Journal](https://en.wikipedia.org/wiki/New_Media_%26_Society)
 * [CHI’20, April 25–30, 2020](https://chi2020.acm.org/)
 * [ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'22)](https://eaamo.org/)
+
 
 ## Graduate Student Instructor Courses
 * [SI 671/721: Data Mining: Methods and Applications](https://s3-us-west-1.amazonaws.com/umsi-class/671.pdf) - (98 students) Automatic, robust, and intelligent data mining techniques have become essential tools to handle heterogeneous, noisy, nontraditional, and large-scale data sets. This is a doctoral seminar course of advanced topics in data mining. The course provides an overview of recent research topics in the field of data mining, the state-of-the-art methods to analyze different genres of information, and the applications to many real world problems. 
