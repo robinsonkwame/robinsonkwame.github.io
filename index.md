@@ -1,10 +1,10 @@
 <img src="./images/mexico_city_blue.jpg" height="200" alt="Photo of Kwame Porter Robinson with a blue wall behind him.">
 
-github: [robinsonkwame](https://github.com/robinsonkwame) email: [kwamepr@umich.edu](mailto:kwamepr@umich.edu)
+email: [kwamepr@umich.edu](mailto:kwamepr@umich.edu)* github: [robinsonkwame](https://github.com/robinsonkwame) 
 
+substack: [community-based economies](https://communitybasedeconomies.substack.com/) linkedin: [kporterrobinson](https://www.linkedin.com/in/kporterrobinson)
 
-
-linkedin: [kporterrobinson](https://www.linkedin.com/in/kporterrobinson) twitter: [@kporterrobinson](https://twitter.com/kporterrobinson)
+\* temporary
 
 ## About
 
