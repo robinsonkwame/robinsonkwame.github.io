@@ -8,7 +8,7 @@ substack: [community-based economies](https://communitybasedeconomies.substack.c
 
 ## About
 
-Kwame is a socio-technical action researcher. Multimodal machine learning coupled with mixed-method system designs is how he often takes action with others. Sustainable social, economic, and environmental relationships with human AI interaction are his areas of inquiry. His three current interrelated research projects are [Computing for Community Economies](https://midas.umich.edu/building-ethical-ai/), [Sustainability Assessment](https://www.lifecycleinitiative.org/starting-life-cycle-thinking/life-cycle-approaches/life-cycle-sustainability-assessment/), and Social Justice in Human AI Interaction, particularly in robotics.
+Kwame is a socio-technical action researcher. Multimodal machine learning coupled with mixed-method system designs is how he often takes action with others. Sustainable social, economic, and environmental relationships with human AI interaction are his areas of inquiry. His three current interrelated research projects are [Computing for Community Economies](https://midas.umich.edu/building-ethical-ai/), [Sustainability Assessment](https://www.lifecycleinitiative.org/starting-life-cycle-thinking/life-cycle-approaches/life-cycle-sustainability-assessment/), and Social Justice in Human AI Interaction, particularly in robotics. He is an assistant professor at Wayne State University, Ilitch School of Business.
 
 In his Computing in Community Economics area, Kwame is working under PI Ron Eglash on a NSF funded grant “[Race, Gender and Class Equity in the Future of Work: Automation for the Artisanal Economy.](https://www.si.umich.edu/about-umsi/news/eglash-awarded-nsf-grant-study-how-technology-can-empower-artisan-communities)” In collaboration with a diverse ecosystem of artisanal enterprises, this project combines artificial intelligence with a Science and Technology Studies framework, Generative Justice, to enhance wealth equity through experiments with bottom up social technologies to bolster collective production, supply chain making, and other dimensions of work.
 
@@ -16,7 +16,7 @@ Kwame’s second project is Sustainability Assessment. The manufacturing of prod
 
 The final interrelated area, Social Justice for Human AI interaction (HAI), determines ways that interaction can be proactive instead of reactive. In this area, Kwame focuses on the problem of human consent for machine learning inference and trust repair strategies after negative HAI interactions. Examples include recent work on justice as trust repair and trustless models of machine learning consent.
 
-In his research, he develops interdisciplinary theory within case-based work across various problem domains. His primary investigative techniques are systems building, field studies, and experimental designs. For evaluation he largely uses quantitative and mixed-methods methods. Prior to academia he worked for several years in industry as CEO, research engineer, data scientist and machine learning engineer for both government and private corporations. Kwame is a Ph.D. candidate at the University of Michigan in the School of Information. He is advised by [Dr. Robert](https://sites.google.com/a/umich.edu/lionelrobert/home) and [Dr. Eglash](https://generativejustice.org/).
+In his research, he develops interdisciplinary theory within case-based work across various problem domains. His primary investigative techniques are systems building, field studies, and experimental designs. For evaluation he largely uses quantitative and mixed-methods methods. Prior to academia he worked for several years in industry as CEO, research engineer, data scientist and machine learning engineer for both government and private corporations. Kwame earned his Ph.D. from the University of Michigan in the School of Information. His dissertation committee included [Dr. Eglash](https://generativejustice.org/), [Dr. Robert](https://sites.google.com/a/umich.edu/lionelrobert/home), [Dr. Guzdial](https://computinged.wordpress.com/), and [Dr. Bennett](https://www.audreygbennett.com/).
 
 ## Publications
 
@@ -96,7 +96,7 @@ Kwame holds a master’s degree in Computer Science (University of Maryland, Bal
 
 ## Contact
 
-Feel free to reach out to Kwame at [kwamepr@umich.edu](mailto:kwamepr@umich.edu) and he welcomes focused collaboration across a variety of disciplines.
+Feel free to reach out to Kwame and he welcomes focused collaboration across a variety of disciplines.
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
