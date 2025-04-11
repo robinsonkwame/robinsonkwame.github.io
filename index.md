@@ -22,7 +22,7 @@ As an assistant professor at Wayne State University, Ilitch School of Business, 
 
 J.3 **Kwame Porter Robinson**, Matthew Garvin, Ron Eglash, Lionel Robert, Mark Guzdial, Audrey Bennett “[Making Exploratory Search Engines using Qualitative Case Studies: a content-aware mixed- methods implementation using interviews with Detroit Artisans](https://www.researchgate.net/publication/385875971_Making_exploratory_search_engines_using_qualitative_case_studies_a_mixed_method_implementation_using_interviews_with_Detroit_Artisans/comments)”, [Journal of Integrated STEM](https://www.degruyter.com/journal/key/jigs/html?lang=en)
 
-J.2 **Kwame Porter Robinson**, Ron Eglash, Lionel P. Robert, Audrey Bennett, Mark Guzdial (2024; Accepted) "Computing for Community-Based Economies: A Sociotechnical Ecosystem for Democratic, Egalitarian and Sustainable Futures", [The Information Society](https://www.tandfonline.com/journals/utis20) 
+J.2 **Kwame Porter Robinson**, Ron Eglash, Lionel P. Robert, Audrey Bennett, Mark Guzdial (2024; Accepted) "[Computing for Community-Based Economies: A Sociotechnical Ecosystem for Democratic, Egalitarian and Sustainable Futures](https://arxiv.org/abs/2504.06114)", [The Information Society](https://www.tandfonline.com/journals/utis20). Pre-print.
 
 J.1 Ron Eglash, **Kwame Porter Robinson**, Audrey Bennett, Lionel Robert, Matthew Garvin
 (2023) "Computational Reparations as Generative Justice: Decolonial Transitions to Unalienated Circular Value Flow". [Big Data & Society](https://journals-sagepub-com.proxy.lib.umich.edu/home/bds)
