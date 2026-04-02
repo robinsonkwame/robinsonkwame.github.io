@@ -5,7 +5,6 @@ email: [kwamepr@wayne.edu](mailto:kwamepr@wayne.edu) github: [robinsonkwame](htt
 substack: [community-based economies](https://communitybasedeconomies.substack.com/) linkedin: [kporterrobinson](https://www.linkedin.com/in/kporterrobinson)
 
 
-
 ## About
 
 We all participate in the surrounding economy but what possibilities emerge when we design our own? Dr. Kwame Porter Robinson is a socio-technical action researcher whose work leverages artificial intelligence and automation to explore how these emerging technologies can support community-based economies, through two major research streams:
@@ -20,18 +19,29 @@ Dr. Robinson's interdisciplinary theory development is grounded in case-based wo
 
 ### Accepted Journal Articles
 
-J.3 **Kwame Porter Robinson**, Matthew Garvin, Ron Eglash, Lionel Robert, Mark Guzdial, Audrey Bennett “[Making Exploratory Search Engines using Qualitative Case Studies: a content-aware mixed- methods implementation using interviews with Detroit Artisans](https://www.researchgate.net/publication/385875971_Making_exploratory_search_engines_using_qualitative_case_studies_a_mixed_method_implementation_using_interviews_with_Detroit_Artisans/comments)”, [Journal of Integrated STEM](https://www.degruyter.com/journal/key/jigs/html?lang=en)
+J.5 **Kwame Porter Robinson**, Ron Eglash, Lionel Robert, Audrey Bennett, Mark Guzdial, Michael Nayebare (2025) [Computing for community-based economies: A sociotechnical ecosystem for democratic, egalitarian, and sustainable futures](https://www.tandfonline.com/doi/full/10.1080/01972243.2025.2543926?src=exp-la#abstract). The Information Society.
 
-J.2 **Kwame Porter Robinson**, Ron Eglash, Lionel P. Robert, Audrey Bennett, Mark Guzdial (2024; Accepted) "[Computing for Community-Based Economies: A Sociotechnical Ecosystem for Democratic, Egalitarian and Sustainable Futures](https://arxiv.org/abs/2504.06114)", [The Information Society](https://www.tandfonline.com/journals/utis20). Pre-print.
+J.4 **Kwame Porter Robinson**, Matthew Garvin, Ron Eglash, Lionel Robert, Mark Guzdial, Audrey Bennett (2024) [Making Exploratory Search Engines using Qualitative Case Studies: a content-aware mixed-methods implementation using interviews with Detroit Artisans]([url](https://www.researchgate.net/publication/384603584_Making_Exploratory_Search_Engines_using_Qualitative_Case_studies_a_mixed_method_implementation_using_interviews_with_Detroit_Artisans)). Journal of Global Integrated STEM: People, Technology, and Policy.
 
-J.1 Ron Eglash, **Kwame Porter Robinson**, Audrey Bennett, Lionel Robert, Matthew Garvin
-(2023) "Computational Reparations as Generative Justice: Decolonial Transitions to Unalienated Circular Value Flow". [Big Data & Society](https://journals-sagepub-com.proxy.lib.umich.edu/home/bds)
+J.3 Ron Eglash, **Kwame Porter Robinson**, Audrey Bennett, Lionel Robert, Matthew Garvin (2023) “[Computational Reparations as Generative Justice: Decolonial Transitions to Unalienated Circular Value Flow](https://journals.sagepub.com/doi/10.1177/20539517231221732)”, Big Data & Society 
+
+J.2 **Robinson, K.P.**, Eglash, R., Bennett, A., Nandakumar, S. and Robert, L.P. (2020). “[Authente-Kente: Enabling Authentication for Artisanal Economies with Deep Learning](https://link.springer.com/article/10.1007/s00146-020-01055-2)”, AI & Society, 10.13140/RG.2.2.27020.95362/2 
+
+J.1 Ron Eglash, Lionel P. Robert, Audrey Bennett, **Kwame Porter Robinson**, Michael L Lachney, William Babbitt (2019) “[Automation for the artisanal economy: enhancing the economic and environmental sustainability of crafting professions with human–machine collaboration](https://link.springer.com/article/10.1007/s00146-019-00915-w)”. AI & Society. DOI: 10.1007/s00146-019-00915-w. 
 
 ### Under Review Journal Articles
 
-J.4 **Kwame Porter Robinson**, Ron Eglash, Mark Guzdial, and Lionel Robert (2024;Under Review) “Solidarity Pathways: Embedding Community-based Routing Practices for Generative Justice”, [Environment and Planning A: Economy and Space](https://journals.sagepub.com/home/EPN)
+J.6 **Kwame Porter Robinson**, Amarachi Zita Echere, Michael Nayebare, Ron Eglash, Audrey Bennett, Robert Krueger, and Rhoda Joseph (under review) “Hypersourcing: Adaptive Sustainable Material Sourcing using Large Language Models”, Information System Frontiers
+
+J.7 **Kwame Porter Robinson** (2nd revision) “A Method of IS Futuring: Theory-Derived Rejection”, Journal of Information Technology, Futuring Special Issue
+
+J.8 **Kwame Porter Robinson** (under review) "Changelogs as a New Evidence Source for Governing Enterprise AI", MISQE, Special Issue on [The Future of AI in the Enterprise](https://www.dropbox.com/scl/fi/l5k6cgq9ufech7x7xgzdm/MISQE-Academic-Workshop-and-CfP-AI-2025.pdf?rlkey=s3ly5iqimvjbgniuiuh18dsrp&e=4&st=vhphl7rm&dl=0)
 
 ### Conference Articles
+
+C.7 **Kwame Porter Robinson** (2025) [Design for Obsolescence: A Prefigurative Approach to Sustainable IS](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1061&context=treos_icis2025). ICIS 2025, Green IS Track
+
+C.6 **Kwame Porter Robinson** and Ahmed Mohamadean (2025) [From Fun to New Fundamentals: Jargon and Price Rounding in NFTs Markets](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1233&context=amcis2025), AMICS 2025.
 
 C.5 Ron Eglash, Lionel Robert, Audrey Bennett, **Kwame Robinson**, Matthew Garvin, Deborah Hammond-Sowah (2022) ["Navigating the open/closed spectrum: the need for layered access in platforms forgenerative justice"](https://www.researchgate.net/publication/361180788_Navigating_the_openclosed_spectrum_the_need_for_layered_access_in_platforms_for_generative_justice), [ICA72](https://www.icahdq.org/page/ICA2022)
 
