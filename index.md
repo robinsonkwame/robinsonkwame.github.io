@@ -33,7 +33,7 @@ J.1 Ron Eglash, Lionel P. Robert, Audrey Bennett, **Kwame Porter Robinson**, Mic
 
 J.6 **Kwame Porter Robinson**, Amarachi Zita Echere, Michael Nayebare, Ron Eglash, Audrey Bennett, Robert Krueger, and Rhoda Joseph (under review) “Hypersourcing: Adaptive Sustainable Material Sourcing using Large Language Models”, Information System Frontiers
 
-J.7 **Kwame Porter Robinson** (2nd revision) “A Method of IS Futuring: Theory-Derived Rejection”, Journal of Information Technology, Futuring Special Issue
+J.7 **Kwame Porter Robinson** (2nd revision) “A Method of IS Futuring: Theory-Derived Rejection”, Journal of Information Technology, [Special Issue on Digital Futures as a Novel Site of Inquiry](https://journals.sagepub.com/pb-assets/JIT%20CFP%20SI%20Digital%20Futures%20rev06%20(Daniel%20Final).pdf)
 
 J.8 **Kwame Porter Robinson** (under review) "Changelogs as a New Evidence Source for Governing Enterprise AI", MISQE, Special Issue on [The Future of AI in the Enterprise](https://www.dropbox.com/scl/fi/l5k6cgq9ufech7x7xgzdm/MISQE-Academic-Workshop-and-CfP-AI-2025.pdf?rlkey=s3ly5iqimvjbgniuiuh18dsrp&e=4&st=vhphl7rm&dl=0)
 
